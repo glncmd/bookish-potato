@@ -1,4 +1,4 @@
-# A compilation of solutions to problems as coding practice.
+_A compilation of solutions to problems as coding practice._
 
 ## two-sum
 A small Python project where: given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`

@@ -1,9 +1,9 @@
 ### A compilation of solutions to problems as coding practice.
-* [two-sum](#two-sum)
-* [add-two](#add-two)
-* [longest-substring](#longest-substring)
-* [median-sorted-arrays](#median-sorted-arrays)
-* [longest-palindrome](#longest-palindrome)
+1. [two-sum](#two-sum)
+2. [add-two](#add-two)
+3. [longest-substring](#longest-substring)
+4. [median-sorted-arrays](#median-sorted-arrays)
+5. [longest-palindrome](#longest-palindrome)
 
 # two-sum<a name="two-sum"></a> 
 A small Python project where: given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`

@@ -13,7 +13,6 @@ def twoSum(nums: List[int], target: int) -> List[int]:
     else:
         return 'N/A'
 
-
 # add-two
 class ListNode: # definition for singly-linked list:
     def __init__(self, val=0, next=None):
@@ -46,7 +45,6 @@ def addTwoNumbers(l1: ListNode, l2: ListNode) -> ListNode:
 
     return x.next
 
-
 # longest-substring
 def lengthOfLongestSubstring(string: str) -> int:
     sub_s = []
@@ -66,7 +64,6 @@ def lengthOfLongestSubstring(string: str) -> int:
             maxlength = i
 
     return maxlength
-
 
 # median-sorted-arrays
 def findMedianSortedArrays(nums1: List[int], nums2: List[int]) -> float:
@@ -113,7 +110,6 @@ def findMedianSortedArrays(nums1: List[int], nums2: List[int]) -> float:
                 right_min = min(nums1[a], nums2[b])
 
             return (left_max + right_min) / 2
-
 
 # longest-palindrome
 def longestPalindrome(s: str) -> str:

@@ -1,6 +1,11 @@
-_A compilation of solutions to problems as coding practice._
+### A compilation of solutions to problems as coding practice.
+* [two-sum](#two-sum)
+* [add-two](#add-two)
+* [longest-substring](#longest-substring)
+* [median-sorted-arrays](#median-sorted-arrays)
+* [longest-palindrome](#longest-palindrome)
 
-# two-sum
+# two-sum<a name="two-sum"></a> 
 A small Python project where: given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`
 
 Assume that each input would have exactly one solution, and the same element cannot be used twice.
@@ -20,7 +25,7 @@ twoSum([3, 3], 6)
 Problem from:  
 https://leetcode.com/problems/two-sum/
 
-# add-two
+# add-two<a name="add-two"></a> 
 A small python project where: given two non-empty linked lists representing two non-negative integers; The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 
 Assume the two numbers do not contain any leading zero, except the number 0 itself.
@@ -43,7 +48,7 @@ Learnings:
 Problem from:  
 https://leetcode.com/problems/add-two-numbers/
 
-# longest-substring
+# longest-substring<a name="longest-substring"></a> 
 A small python project where: given a string, find the length of the longest substring without repeating characters.
 
 Sample output:
@@ -74,7 +79,7 @@ Learnings:
 Problem from:  
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
-# median-sorted-arrays
+# median-sorted-arrays<a name="median-sorted-arrays"></a> 
 A small python project where: given two sorted arrays `nums1` and `nums2` of size `m` and `n` respectively, return the median of the two sorted arrays.
 
 ___The overall run time complexity should be O(log (m+n))___
@@ -107,7 +112,7 @@ References:
 Problem from:  
 https://leetcode.com/problems/median-of-two-sorted-arrays/
 
-# longest-palindrome
+# longest-palindrome<a name="longest-palindrome"></a> 
 A small python project where: given a string `s`, return the longest palindromic substring in `s`.
 
 Sample output:

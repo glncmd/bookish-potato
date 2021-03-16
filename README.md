@@ -4,6 +4,7 @@
 3. [longest-substring](#longest-substring)
 4. [median-sorted-arrays](#median-sorted-arrays)
 5. [longest-palindrome](#longest-palindrome)
+6. [zig-zag-conversion](#zig-zag)
 
 # two-sum<a name="two-sum"></a> 
 A small Python project where: given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`
@@ -144,3 +145,30 @@ _Learnings:_
 
 _Problem from:_  
 https://leetcode.com/problems/longest-palindromic-substring/
+
+# zig-zag-conversion<a name="zig-zag"></a> 
+A small python project where: given a string `s` e.g. `"PAYPALISHIRING"` convert it in a zigzag pattern on a given number of rows `numRows` like this:  
+```
+P   A   H   N
+A P L S I I G
+Y   I   R
+```
+And then read line by line: `"PAHNAPLSIIGYIR"`
+
+_Sample output:_
+```python
+convert('PAYPALISHIRING', 3)
+'PAHNAPLSIIGYIR'
+
+convert('PAYPALISHIRING', 4)
+'PINALSIGYAHRPI'
+
+convert('PAYPALISHIRING', 5)
+'PHASIYIRPLIGAN'
+
+convert('A', 2)
+'A'
+```
+
+_Problem from:_  
+https://leetcode.com/problems/zigzag-conversion/

@@ -10,7 +10,7 @@ A small Python project where: given an array of integers `nums` and an integer `
 
 Assume that each input would have exactly one solution, and the same element cannot be used twice.
 
-Sample output:
+_Sample output:_
 ```python
 twoSum([2, 7, 11, 15], 9)
 [0, 1]
@@ -22,7 +22,7 @@ twoSum([3, 3], 6)
 [0, 1]
 ```
 
-Problem from:  
+_Problem from:_  
 https://leetcode.com/problems/two-sum/
 
 # add-two<a name="add-two"></a> 
@@ -30,7 +30,7 @@ A small python project where: given two non-empty linked lists representing two 
 
 Assume the two numbers do not contain any leading zero, except the number 0 itself.
 
-Sample output:
+_Sample output:_
 ```python
 #Input: l1 = [2, 4, 3], l2 = [5, 6, 5]
 l1 = ListNode(2, ListNode(4, ListNode(3, None)))
@@ -40,18 +40,18 @@ l2 = ListNode(5, ListNode(6, ListNode(5, None)))
 ListNode(7, ListNode(0, ListNode(9, None)))
 ```
 
-Learnings:
+_Learnings:_
 * Linked Lists
 * Chained assignments
 * divmod() method
 
-Problem from:  
+_Problem from:_  
 https://leetcode.com/problems/add-two-numbers/
 
 # longest-substring<a name="longest-substring"></a> 
 A small python project where: given a string, find the length of the longest substring without repeating characters.
 
-Sample output:
+_Sample output:_
 ```python
 lengthOfLongestSubstring("abccabcbb")
 3
@@ -69,14 +69,14 @@ lengthOfLongestSubstring("")
 0
 ```
 
-Learnings:
+_Learnings:_
 * Definitions of:
 	* Subarray
 	* Substring
 	* Subsequence
 	* Subset
 
-Problem from:  
+_Problem from:_  
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 # median-sorted-arrays<a name="median-sorted-arrays"></a> 
@@ -84,7 +84,7 @@ A small python project where: given two sorted arrays `nums1` and `nums2` of siz
 
 ___The overall run time complexity should be O(log (m+n))___
 
-Sample output:
+_Sample output:_
 ```python
 findMedianSortedArrays([4,5],[1,2,3])
 3
@@ -102,20 +102,20 @@ findMedianSortedArrays([2],[])
 2
 ```
 
-Learnings:
+_Learnings:_
 * Introduction to Big O Notation and Time Complexity
 
-References:
+_References:_
 * https://www.youtube.com/watch?v=LPFhl65R7ww  
 * https://medium.com/@hazemu/finding-the-median-of-2-sorted-arrays-in-logarithmic-time-1d3f2ecbeb46
 
-Problem from:  
+_Problem from:_  
 https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 # longest-palindrome<a name="longest-palindrome"></a> 
 A small python project where: given a string `s`, return the longest palindromic substring in `s`.
 
-Sample output:
+_Sample output:_
 ```python
 longestPalindrome("racecarracecarrrr")
 'racecarracecar'
@@ -139,8 +139,8 @@ longestPalindrome("a")
 'a'
 ```
 
-Learnings:
+_Learnings:_
 * Return value annotations
 
-Problem from:  
+_Problem from:_  
 https://leetcode.com/problems/longest-palindromic-substring/

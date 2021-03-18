@@ -196,5 +196,8 @@ reverse(0)
 0
 ```
 
+_Learnings:_
+* 32-bit signed integers
+
 _Problem from:_  
 https://leetcode.com/problems/reverse-integer/

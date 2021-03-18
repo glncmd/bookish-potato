@@ -5,6 +5,7 @@
 4. [median-sorted-arrays](#median-sorted-arrays)
 5. [longest-palindrome](#longest-palindrome)
 6. [zig-zag-conversion](#zig-zag)
+7. [reverse-integer](#rev-int)
 
 # two-sum<a name="two-sum"></a> 
 A small Python project where: given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`
@@ -147,8 +148,10 @@ _Problem from:_
 https://leetcode.com/problems/longest-palindromic-substring/
 
 # zig-zag-conversion<a name="zig-zag"></a> 
-A small python project where: given a string `s` e.g. `"PAYPALISHIRING"` convert it in a zigzag pattern on a given number of rows `numRows` like this:  
+A small python project where: given a string `s` _e.g._ `"PAYPALISHIRING"` convert it in a zigzag pattern on a given number of rows `numRows` like this:  
 ```
+numRows = 3
+
 P   A   H   N
 A P L S I I G
 Y   I   R
@@ -172,3 +175,26 @@ convert('A', 2)
 
 _Problem from:_  
 https://leetcode.com/problems/zigzag-conversion/
+
+# reverse-integer<a name="rev-int"></a> 
+Given a signed 32-bit integer `x`, return `x` with its digits reversed. If reversing `x` causes the value to go outside the signed 32-bit integer range [-2<sup>31</sup>, 2<sup>31</sup> - 1], then return `0`.
+
+___Assume the environment does not allow you to store 64-bit integers (signed or unsigned).___
+
+_Sample output:_
+```python
+reverse(123)
+321
+
+reverse(-123)
+-321
+
+reverse(120)
+21
+
+reverse(0)
+0
+```
+
+_Problem from:_  
+https://leetcode.com/problems/reverse-integer/

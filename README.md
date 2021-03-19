@@ -6,6 +6,7 @@
 5. [longest-palindrome](#longest-palindrome)
 6. [zig-zag-conversion](#zig-zag)
 7. [reverse-integer](#rev-int)
+8. [string-to-integer](#atoi)
 
 # two-sum<a name="two-sum"></a> 
 A small Python project where: given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`
@@ -177,7 +178,7 @@ _Problem from:_
 https://leetcode.com/problems/zigzag-conversion/
 
 # reverse-integer<a name="rev-int"></a> 
-Given a signed 32-bit integer `x`, return `x` with its digits reversed. If reversing `x` causes the value to go outside the signed 32-bit integer range [-2<sup>31</sup>, 2<sup>31</sup> - 1], then return `0`.
+A small python project where: given a signed 32-bit integer `x`, return `x` with its digits reversed. If reversing `x` causes the value to go outside the signed 32-bit integer range [-2<sup>31</sup>, 2<sup>31</sup> - 1], then return `0`.
 
 ___Assume the environment does not allow you to store 64-bit integers (signed or unsigned).___
 
@@ -201,3 +202,45 @@ _Learnings:_
 
 _Problem from:_  
 https://leetcode.com/problems/reverse-integer/
+
+# string-to-integer<a name="atoi"></a> 
+A small python project that implements the `myAtoi(string s)` function, which converts a string to a 32-bit signed integer (similar to C/C++'s atoi function).  
+  
+The algorithm for `myAtoi(string s)` is as follows:
+  
+1. Read in and ignore any leading whitespace.
+2. Check if the next character (if not already at the end of the string) is `'-'` or `'+'`. Read this character in if it is either. This determines if the final result is negative or positive respectively. Assume the result is positive if neither is present.
+3. Read in next the characters until the next non-digit charcter or the end of the input is reached. The rest of the string is ignored.
+4. Convert these digits into an integer (i.e. `"123" -> 123, "0032" -> 32`). If no digits were read, then the integer is `0`. Change the sign as necessary (from step 2).
+5. If the integer is out of the 32-bit signed integer range [-2<sup>31</sup>, 2<sup>31</sup> - 1], then clamp the integer so that it remains in the range. Specifically, integers less than -2<sup>31</sup> should be clamped to -2<sup>31</sup>, and integers greater than 2<sup>31</sup> - 1 should be clamped to 2<sup>31</sup> - 1.
+6. Return the integer as the final result.
+
+* _Only the space character ' ' is considered a whitespace character._
+* _Do not ignore any characters other than the leading whitespace or the rest of the string after the digits._
+
+_Sample output:_
+```python
+myAtoi('42')
+42
+
+myAtoi('   -42')
+-42
+
+myAtoi('4193 with words')
+4193
+
+myAtoi('words and 987')
+0
+
+myAtoi('-91283472332')
+-2147483648
+
+myAtoi('90000000000')
+2147483647
+
+myAtoi('')
+0
+```
+
+_Problem from:_  
+https://leetcode.com/problems/string-to-integer-atoi/

@@ -7,6 +7,7 @@
 6. [zig-zag-conversion](#zig-zag)
 7. [reverse-integer](#rev-int)
 8. [string-to-integer](#atoi)
+9. [palindrome-number](#p-num)
 
 # two-sum<a name="two-sum"></a> 
 A small Python project where: given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`
@@ -244,3 +245,26 @@ myAtoi('')
 
 _Problem from:_  
 https://leetcode.com/problems/string-to-integer-atoi/
+
+# palindrome-number<a name="p-num"></a> 
+A small python project where: given an integer `x`, return `true` if `x` is palindrome integer.
+
+An integer is a __palindrome__ when it reads the same backward as forward. For example, `121` is palindrome while `123` is not. 
+
+_Sample output:_
+```python
+isPalindrome(121)
+True
+
+isPalindrome(-121)
+False
+
+isPalindrome(10)
+False
+
+isPalindrome(-101)
+False
+```
+
+_Problem from:_  
+https://leetcode.com/problems/palindrome-number/

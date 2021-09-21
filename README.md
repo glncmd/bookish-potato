@@ -1,4 +1,4 @@
-### A compilation of solutions to problems as coding practice.
+### A compilation of leetcode solutions to problems as coding practice.
 
 * two-sum.py  
 https://leetcode.com/problems/two-sum/

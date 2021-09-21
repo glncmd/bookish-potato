@@ -29,3 +29,6 @@ https://leetcode.com/problems/palindrome-number/
 
 * roman-to-int.js  
 https://leetcode.com/problems/roman-to-integer/
+
+* sort-sentence.js  
+https://leetcode.com/problems/sorting-the-sentence/

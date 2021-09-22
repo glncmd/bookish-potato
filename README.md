@@ -32,3 +32,6 @@ https://leetcode.com/problems/roman-to-integer/
 
 * sort-sentence.js  
 https://leetcode.com/problems/sorting-the-sentence/
+
+* last-word-length.js  
+https://leetcode.com/problems/length-of-last-word/

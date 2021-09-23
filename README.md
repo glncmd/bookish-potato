@@ -38,3 +38,6 @@ https://leetcode.com/problems/length-of-last-word/
 
 * strictly-increasing.js  
 https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
+
+* unique-occurances.js  
+https://leetcode.com/problems/unique-number-of-occurrences/

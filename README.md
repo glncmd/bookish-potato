@@ -35,3 +35,6 @@ https://leetcode.com/problems/sorting-the-sentence/
 
 * last-word-length.js  
 https://leetcode.com/problems/length-of-last-word/
+
+* strictly-increasing.js  
+https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/

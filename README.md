@@ -17,3 +17,4 @@
 * [unique-occurances.js](https://leetcode.com/problems/unique-number-of-occurrences/)
 * [reverse-prefix.js](https://leetcode.com/problems/reverse-prefix-of-word/)
 * [reverse-linked-list.js](https://leetcode.com/problems/reverse-linked-list/)
+* [find-difference.js](https://leetcode.com/problems/find-the-difference/)

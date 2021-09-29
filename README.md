@@ -21,5 +21,6 @@
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[JavaScript](./solutions/find-difference.js)
 |187|[Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|[JavaScript](./solutions/good-substrings.js)
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[JavaScript](./solutions/keyboard-row.js)
+|1436|[Destination City](https://leetcode.com/problems/destination-city/)|[JavaScript](./solutions/destination-city.js)
 
 **sorted chronologically*

@@ -22,5 +22,6 @@
 |187|[Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|[JavaScript](./solutions/good-substrings.js)
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[JavaScript](./solutions/keyboard-row.js)
 |1436|[Destination City](https://leetcode.com/problems/destination-city/)|[JavaScript](./solutions/destination-city.js)
+|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[JavaScript](./solutions/duplicate-zeros.js)
 
-**sorted chronologically*
+**sorted by chronologically solved*

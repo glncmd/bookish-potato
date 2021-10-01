@@ -23,5 +23,4 @@
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[JavaScript](./solutions/keyboard-row.js)
 |1436|[Destination City](https://leetcode.com/problems/destination-city/)|[JavaScript](./solutions/destination-city.js)
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[JavaScript](./solutions/duplicate-zeros.js)
-
-**sorted by chronologically solved*
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[JavaScript](./solutions/int-to-roman.js)

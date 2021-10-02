@@ -24,3 +24,4 @@
 |1436|[Destination City](https://leetcode.com/problems/destination-city/)|[JavaScript](./solutions/destination-city.js)
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[JavaScript](./solutions/duplicate-zeros.js)
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[JavaScript](./solutions/int-to-roman.js)
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JavaScript](./solutions/common-prefix.js)

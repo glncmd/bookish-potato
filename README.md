@@ -2,7 +2,7 @@
 
 | # | Title | Solution |
 |---| ----- | -------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./solutions/two-sum.py)
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./solutions/two-sum.py), [Javascript](./solutions/two-sum.js)
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](./solutions/add-two.py)
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](./solutions/longest-substring.py)
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](./solutions/median-sorted-arrays.py)

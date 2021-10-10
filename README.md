@@ -28,3 +28,4 @@
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[JavaScript](./solutions/three-sum.js)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[JavaScript](./solutions/max-area.js)|Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[JavaScript](./solutions/regex-match.js)|Hard|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./solutions/parenthesis.js)|Easy|

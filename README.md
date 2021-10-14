@@ -29,3 +29,4 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[JavaScript](./solutions/max-area.js)|Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[JavaScript](./solutions/regex-match.js)|Hard|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./solutions/parenthesis.js)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./solutions/two-lists.js)|Easy|

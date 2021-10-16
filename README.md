@@ -31,3 +31,4 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./solutions/parenthesis.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./solutions/two-lists.js)|Easy|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[JavaScript](./solutions/three-sum-closest.js)|Medium|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./solutions/remove-dupes.js)|Easy|

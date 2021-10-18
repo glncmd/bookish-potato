@@ -33,3 +33,4 @@
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[JavaScript](./solutions/three-sum-closest.js)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./solutions/remove-dupes.js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./solutions/remove-ele.js)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./solutions/str-str.js)|Easy|

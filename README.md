@@ -34,3 +34,4 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./solutions/remove-dupes.js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./solutions/remove-ele.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./solutions/str-str.js)|Easy|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JavaScript](./solutions/letter-combo.js)|Medium|
